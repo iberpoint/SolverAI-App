@@ -9,5 +9,5 @@ SolverAI app is a mini version of PhotoMath(https://photomath.app/en/) mobile ap
 <br/><br/>
 <img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot-2.png" width=500 />
 <br/><br/>
-<img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot.png" width=500 />
+<img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot-3.png" width=500 />
 <br/><br/>
