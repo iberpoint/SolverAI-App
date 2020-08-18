@@ -5,5 +5,5 @@ SolverAI app is a mini version of PhotoMath(https://photomath.app/en/) mobile ap
 <br/>
 <br/>
 <h2>Sample Screen</h2>
-<img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot.png" />
+<img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot.png" width=300 />
 <br/><br/>
