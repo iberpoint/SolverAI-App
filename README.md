@@ -4,6 +4,17 @@ SolverAI app is a mini version of PhotoMath(https://photomath.app/en/) mobile ap
 
 <br/>
 <br/>
+<p>Currently, the app supports the following simple-operations only:
+<ul>
+  <li>Add</li>
+  <li>Subtract</li>
+  <li>Multiply</li>
+  <li>Divide</li>
+</ul>
+
+<br/>
+<br/>
+
 <h2>Sample Screens</h2>
 <img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/ScreenShot.png" width=500 />
 <br/><br/>
