@@ -26,3 +26,8 @@ SolverAI app is a mini version of PhotoMath(https://photomath.app/en/) mobile ap
   <li>Create a HTTP call(GET) to access MathJS Web API to handle math expression and calculate result. It will be using URL encoding for the variable we declared above. Make sure you add the variable as parameter to url encode function. For instance, It should be defined like "encodeUriComponent(triggerBody()['Initializevariable_Value'])" </li>
   <li>Respond the result from HTTP call to the powerapps. Make sure you select the string type and return the "Body" parameter coming from HTTP call</li>
 </ul>
+
+<br/>
+<h2>Flow screenshot</h2>
+<br/>
+<img src="https://raw.githubusercontent.com/iberpoint/SolverAI-App/master/Flow-Screenshot.png" width=500 />
