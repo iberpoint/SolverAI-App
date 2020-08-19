@@ -24,7 +24,7 @@ SolverAI app is a mini version of PhotoMath(https://photomath.app/en/) mobile ap
   <li>Create a new instant workflow in Power Automate that uses PowerApps button</li>
   <li>Add "Initialize Variable" action. We send the data from AIBuilder service to this flow using parameters and that parameter will be the text of mathematical expression</li>
   <li>Create a HTTP call(GET) to access MathJS Web API to handle math expression and calculate result. It will be using URL encoding for the variable we declared above. Make sure you add the variable as parameter to url encode function. For instance, It should be defined like "encodeUriComponent(triggerBody()['Initializevariable_Value'])" </li>
-  <li>Respond the result from HTTP call to the powerapps. Make sure you select the string type and return the "Body" parameter coming from HTTP call</li>
+  <li>Respond to the PowerApps by using the result from HTTP call. Make sure you select the string type and return the "Body" parameter coming from HTTP call</li>
 </ul>
 
 <br/>
